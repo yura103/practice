@@ -16,7 +16,7 @@ node {
 
         stage('Build') {
             sh(script: '''yes | sudo docker image prune -a''')
-            sh(script: '''sudo docker build -t fisa-app .''')
+            sh(script: '''sudo docker build -t fisa-app ./05_dockerize/''')
             echo "Stage Build success"
         }
 
