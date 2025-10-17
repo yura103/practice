@@ -1,3 +1,5 @@
 docker build -t atangi/fastapi-server:1.0 .
 docker run --env-file .env -p 80:8000 --name fastapi-server --rm -d atangi/fastapi-server:1.0 
 docker push atangi/fastapi-server:1.0
+
+새로 변경한 사항
