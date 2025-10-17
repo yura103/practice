@@ -2,3 +2,4 @@
 **/__pycache__/
 fastapi_app.log
 *.pem
+*.csv
