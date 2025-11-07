@@ -133,7 +133,7 @@
 
 ![피그마1](https://drive.google.com/uc?export=view&id=1kjWaJSCEG8rBkOyWXsZ6ggqQRtzCDbIa)
 ![피그마2](https://drive.google.com/uc?export=view&id=1WcD3a4DFVNjcMlw1nO9Nz-QZN2CZX5Bx)
-![피그마3](https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1mQYDz0wpyEgvX4T8IaOji1fsmlf2RMuC/view?usp=drive_link)
+![피그마3](https://drive.google.com/uc?export=view&id=1mQYDz0wpyEgvX4T8IaOji1fsmlf2RMuC)
 
 ### **6.2. 가맹점 맞춤형 컨설팅 지원**
 
