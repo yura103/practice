@@ -3,7 +3,7 @@
 
 ## **프로젝트: 우리 동네 가맹점, 위기 신호를 미리 잡아라!**
 
-### [📑 PPT](https://drive.google.com/drive/folders/1jaDh55LWAPJujv6u-DLDoSJ272of5uh4?usp=sharing) | [보고서](https://drive.google.com/file/d/1_OR-3VCOVa8mbY9fBRuCy_6IzK4U3knx/view?usp=drive_link) | [Figma](https://www.figma.com/make/tQnBekMXRiWVxQO6LbhUz7/Franchisee-Support-Web-App?node-id=0-1&p=f&fullscreen=1)
+### [📑 PPT](https://drive.google.com/file/d/1DieBD-L-wBcwL1-GKMM2C7qhttSafe77/view?usp=drive_link) | [보고서](https://drive.google.com/file/d/1_OR-3VCOVa8mbY9fBRuCy_6IzK4U3knx/view?usp=drive_link) | [Figma](https://www.figma.com/make/tQnBekMXRiWVxQO6LbhUz7/Franchisee-Support-Web-App?node-id=0-1&p=f&fullscreen=1)
 
 ---
 
