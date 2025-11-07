@@ -60,7 +60,7 @@
 | ![가설5](https://drive.google.com/uc?export=view&id=1jHZIdi_fI_iJ_Wd-R6s9mt6zmv4TZqsm) | ![가설6](https://drive.google.com/uc?export=view&id=1xWDVKRdZPuX2ITf1yYvn6F3v-v3NaUVf) |
 | ![가설7](https://drive.google.com/uc?export=view&id=1fBtquxSkuAsIKSbGPCKm69iK4vRvAXKw) | ![가설8](https://drive.google.com/uc?export=view&id=19BSQz5Qu7avaNrfLwhrrtR3nYeyE-zE5) |
 | ![가설9](https://drive.google.com/uc?export=view&id=11-9KoFzxSz7tgsLQlpoS2ny1k-A6s9d-) | ![가설10](https://drive.google.com/uc?export=view&id=1Du7sU6e-SmXmO89NmBC8C9Y2GpvZ0VN1) |
-| ![가설11](https://drive.google.com/uc?export=view&id=CpNTimDVOPJNVd3o83Zegc760rnnZ) | ![가설12](https://drive.google.com/uc?export=view&id=1Tm_XdYlRUDL0sSO0n6WT8MrTkwBPdUlu) |
+| ![가설11](https://drive.google.com/uc?export=view&id=1HN-CpNTimDVOPJNVd3o83Zegc760rnnZ) | ![가설12](https://drive.google.com/uc?export=view&id=1Tm_XdYlRUDL0sSO0n6WT8MrTkwBPdUlu) |
 
 ---
 
